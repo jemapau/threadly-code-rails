@@ -1,2 +1,0 @@
-#Threadly Code Rails
-An upgrade version of threadly-code on Rails
